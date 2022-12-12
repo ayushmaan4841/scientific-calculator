@@ -71,7 +71,7 @@ while True:
         a=float(input("Enter a number"))
         print((math.sin(a)))
     elif choice == '9':
-        a=float(input("Enter a number"))
+        a=float(input("Enter aa number"))
         print((math.cos(a)))
     elif choice == '10':
         a=float(input("Enter a number"))
